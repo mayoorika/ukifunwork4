@@ -16,7 +16,7 @@
     "guid": "0.0.12",
     "gulp": "^3.9.0",
     "jquery": "^2.1.4",
-    "mongoose": "^4.10.8",
+    "mongoose": "^5.7.6",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "reactify": "^1.1.1",
